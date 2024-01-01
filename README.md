@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jalil m. lópez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jalil m. lópez" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/jalilmanuel25" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/HackerRank_logo.png/800px-HackerRank_logo.png)" alt="jalil m. lópez" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/jalilmanuel25" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/HackerRank_logo.png/800px-HackerRank_logo.png" alt="jalil m. lópez" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
